@@ -1,0 +1,24 @@
+title: Taha Rostami
+
+collections:
+  publications:
+     output: true
+  projects:
+     output: true
+  
+author:
+  name: TahaRostami
+  email: taha.rostami.darunkola@gmail.com
+description: Personal website of Taha Rostami
+
+show_excerpts: true
+
+minima:
+  date_format: "%b %-d, %Y"
+
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+
+{{content}}
+
+{%- for collection in site.collections -%}
+    {% if page.collection_name == collection.label %}	
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}  
+        <ul class="post-list">		
+		{% assign sorted = collection.docs | sort: 'date' | reverse %}
+		{% for item in sorted %}
+		    <li>
+		       <span class="post-meta">{{ item.date | date: date_format }}</span>
+			   <h3><a class="post-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+			   {%- if site.show_excerpts -%}
+                {{ item.excerpt }}
+               {%- endif -%}
+			</li>
+            			 
+		{%- endfor -%}
+		</ul>
+	{% endif %}
+{%- endfor -%}
+
