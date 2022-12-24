@@ -6,28 +6,33 @@ layout: page
 title: ABOUT
 icon: fa fa-user fa-fw w3-margin-right
 permalink: /
+txtAlign: justify
 ---
 
 
 # Biography
 
-I’m a software engineering graduate student at Tarbiat Modares University, Tehran. I’m working under the supervision of Dr. Saeed Jalili on [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) and my thesis title is Selecting fault revealing mutants by ensemble learning approach.
+
+I graduated with a Master's degree in software engineering from [Tarbiat Modares University](https://www.modares.ac.ir/en/aboutus) in Tehran. I worked on [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) under the supervision of [Dr. Saeed Jalili](https://www.modares.ac.ir/~sjalili), and the title of my thesis was Selecting fault revealing mutants by ensemble learning approach.
+
+I received my B.Sc. in software engineering at [Babol Noshirvani University of Technology, Mazandaran](https://en.nit.ac.ir/). my undergraduate project was [Harif](https://github.com/TahaRostami/Harif) a graph-based automatic course-selection system that recommends schedules based on student’s preferences.
+
+Before starting my path as a dedicated student, I was a professional chess player in high school. I gained many awards such as [Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012](http://chess-results.com/tnr76304.aspx?lan=1&art=72).
 
 
-I received my B.Sc. in software engineering at Babol Noshirvani University of Technology, Mazandaran. my undergraduate project was Harif a graph-based automatic course-selection system that recommends schedules based on student’s preferences.
 
-Before starting my path as a dedicated student, I was a professional chess player in high school. I gained many awards such as Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012.
-
-<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>
+<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
 
 <div class="w3-row">
   <div class="w3-col l6 m6 s12">
     <h2 id="research-interests">Research Interests</h2>
     <ul>
       <li><p>Program Analysis</p></li>
-      <li><p>Graph Neural Networks</p></li>
-      <li><p>Reinforcement Learning</p></li>
-      <li><p>Adversarial Games</p></li>
+	  <li><p>Automated Software Testing</p></li>
+	  <li><p>Formal Methods</p></li>
+      <li><p>Machine Learning Algorithms</p></li>	  
+      <li><p>Decision-making Under Uncertainty</p></li>
+      <li><p>Complexity Theory & Designing Algorithms</p></li>
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">
@@ -43,7 +48,7 @@ Before starting my path as a dedicated student, I was a professional chess playe
 Persian, English
 
 # Hobbies and Interests
-Chess, History, Literature, Painting, Calligraphy, Youtube
+Chess, History, Literature, Painting, Calligraphy, Watching Youtube
 
 
 <div class="w3-row">

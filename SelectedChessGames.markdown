@@ -3,6 +3,7 @@ layout: page
 title: SELECTED CHESS GAMES
 icon: fa fa-gamepad fa-fw w3-margin-right
 permalink: /selected-chess-games/
+txtAlign: justify
 ---
 
 # Selected chess games

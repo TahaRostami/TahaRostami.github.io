@@ -13,13 +13,11 @@ layout: default
 		
 	    <h1>{{ year.name }}</h1>		
 		    {% for item in year.items %}
-			<div class="w3-panel w3-border w3-light-grey w3-round-large">	
-		       <p>
-			     <h3><a class="post-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h3>
+			<div class="w3-panel w3-border w3-light-grey w3-round-large" style="text-align: justify;">	
+			   <h4><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h4>		    
 			     {%- if site.show_excerpts -%}
                   {{ item.excerpt }}
-                 {%- endif -%}
-			   </p>
+                 {%- endif -%}		 
 			   	</div>	
 			{%- endfor -%}    
 		

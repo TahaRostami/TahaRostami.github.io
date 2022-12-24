@@ -36,7 +36,7 @@ body > #content {
  * Links
  */
 a {
-  color: #0366d6;
+  color: #2596be;
   text-decoration: none; }
   a:visited {
     color: #0366d6; }
@@ -50,4 +50,7 @@ a {
   color: #24292e; }
 
 a:visited {
-  color: #0366d6; }
+  color: #1d628f; }
+a:link {
+  color: #0366d6;
+}
