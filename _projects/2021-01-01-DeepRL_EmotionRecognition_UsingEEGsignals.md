@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeepRL_EmotionRecognition_UsingEEGsignals"
+title: "DeepRL EmotionRecognition Using EEG Signals"
 ---
 
 This is a project that I collaborated on with a friend. We used Deep Reinforcement Learning for recognizing emotions based on EEG signals.
