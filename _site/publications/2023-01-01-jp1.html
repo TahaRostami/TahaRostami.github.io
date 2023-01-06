@@ -3,22 +3,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>An intelligent player for Raichu game | Taha Rostami</title>
+<title>Predicting fault-revealing mutants by estimating the difficulty of killing them | Taha Rostami</title>
 <meta name="generator" content="Jekyll v4.3.1" />
-<meta property="og:title" content="An intelligent player for Raichu game" />
+<meta property="og:title" content="Predicting fault-revealing mutants by estimating the difficulty of killing them" />
 <meta name="author" content="TahaRostami" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="I designed and implemented an intelligent player that adopt the Monte-Carlo Tree Search algorithm to play a board-game named Raichu." />
-<meta property="og:description" content="I designed and implemented an intelligent player that adopt the Monte-Carlo Tree Search algorithm to play a board-game named Raichu." />
-<link rel="canonical" href="http://localhost:4000/projects/2022-01-02-Raichu.html" />
-<meta property="og:url" content="http://localhost:4000/projects/2022-01-02-Raichu.html" />
+<meta name="description" content="A feature representing the difficulty of killing a mutant is added as a new feature to complement the state-of-the-art feature set. Then a method is proposed that uses this feature for fault-revealing mutants’ prediction. According to our experimental results, the proposed method outperforms the state-of-the-art method in terms of the Area Under Curve value on the Codeflaws and CoRBench data sets by 7.09% and 8.97%, respectively." />
+<meta property="og:description" content="A feature representing the difficulty of killing a mutant is added as a new feature to complement the state-of-the-art feature set. Then a method is proposed that uses this feature for fault-revealing mutants’ prediction. According to our experimental results, the proposed method outperforms the state-of-the-art method in terms of the Area Under Curve value on the Codeflaws and CoRBench data sets by 7.09% and 8.97%, respectively." />
+<link rel="canonical" href="http://localhost:4000/publications/2023-01-01-jp1.html" />
+<meta property="og:url" content="http://localhost:4000/publications/2023-01-01-jp1.html" />
 <meta property="og:site_name" content="Taha Rostami" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-01-02T00:00:00+03:30" />
+<meta property="article:published_time" content="2023-01-01T00:00:00+03:30" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="An intelligent player for Raichu game" />
+<meta property="twitter:title" content="Predicting fault-revealing mutants by estimating the difficulty of killing them" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"TahaRostami"},"dateModified":"2022-01-02T00:00:00+03:30","datePublished":"2022-01-02T00:00:00+03:30","description":"I designed and implemented an intelligent player that adopt the Monte-Carlo Tree Search algorithm to play a board-game named Raichu.","headline":"An intelligent player for Raichu game","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/2022-01-02-Raichu.html"},"url":"http://localhost:4000/projects/2022-01-02-Raichu.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"TahaRostami"},"dateModified":"2023-01-01T00:00:00+03:30","datePublished":"2023-01-01T00:00:00+03:30","description":"A feature representing the difficulty of killing a mutant is added as a new feature to complement the state-of-the-art feature set. Then a method is proposed that uses this feature for fault-revealing mutants’ prediction. According to our experimental results, the proposed method outperforms the state-of-the-art method in terms of the Area Under Curve value on the Codeflaws and CoRBench data sets by 7.09% and 8.97%, respectively.","headline":"Predicting fault-revealing mutants by estimating the difficulty of killing them","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/publications/2023-01-01-jp1.html"},"url":"http://localhost:4000/publications/2023-01-01-jp1.html"}</script>
 <!-- End Jekyll SEO tag -->
 <!--<link rel="stylesheet" href="/assets/css/style.css">-->
   <link rel="stylesheet" href="/assets/css/github-markdown.css">
@@ -61,24 +61,29 @@
 		    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">An intelligent player for Raichu game</h1>
-    <p class="post-meta"><time class="dt-published" datetime="2022-01-02T00:00:00+03:30" itemprop="datePublished">
-        Jan 2, 2022
+    <h1 class="post-title p-name" itemprop="name headline">Predicting fault-revealing mutants by estimating the difficulty of killing them</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2023-01-01T00:00:00+03:30" itemprop="datePublished">
+        Jan 1, 2023
       </time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>I designed and implemented an intelligent player that adopt the Monte-Carlo Tree Search algorithm to play a board-game named Raichu.</p>
+    <p>A feature representing the difficulty of killing a mutant is added as a new feature to complement the state-of-the-art feature set. Then a method is proposed that uses this feature for fault-revealing mutants’ prediction. According to our experimental results, the proposed method outperforms the state-of-the-art method in terms of the Area Under Curve value on the Codeflaws and CoRBench data sets by 7.09% and 8.97%, respectively.</p>
 
-<p><strong>Application Language(s):</strong> N/A</p>
+<p>Mutation testing is a powerful method used in software testing for various activities, such as guidance for test case generation and test suite quality assessment. However, a vast number of mutants, most unrelated to real faults, threaten the scalability and validity of the method. Over the decades, researchers have proposed various approaches to alleviate these problems, most of which have almost the same performance in practice. To overcome this issue, recently predicting a category of mutants named fault-revealing mutants has been proposed, which outperforms other methods in terms of real-fault revelation ability. Although recent research shows the usefulness of targeting this type of mutant, they are scarce, which makes predictions of them with higher accuracy challenging. In this paper, to tackle this challenge, a feature representing the difficulty of killing a mutant is added as a new feature to complement the state-of-the-art feature set. Then a method is proposed that uses this feature for fault-revealing mutants’ prediction. According to our experimental results, the proposed method outperforms the state-of-the-art method in terms of the Area Under Curve value on the Codeflaws and CoRBench data sets by 7.09% and 8.97%, respectively.</p>
 
-<p><strong>Programming Languages and Technologies:</strong> Python</p>
+<p><strong>Language(s):</strong> English</p>
 
-<p><strong>Member(s):</strong> Taha Rostami</p>
+<p><strong>Authors:</strong> Taha Rostami, Saeed Jalili</p>
 
-<p><strong><a href="#">codes and more information ( not Available)</a></strong></p>
+<p><strong>Published in:</strong> Prepared, not submitted yet</p>
 
-  </div><a class="u-url" href="/projects/2022-01-02-Raichu.html" hidden></a>
+<p><a href="https://github.com/TahaRostami/predicting-fault-revealing-mutants-by-estimating-the-difficulty-of-killing-them"><strong>URL</strong></a></p>
+
+<p><strong>Keywords:</strong> <span class="w3-tag w3-round w3-center">Software testing</span> <span class="w3-tag w3-round w3-center">Mutation testing</span> <span class="w3-tag w3-round w3-center">Predicting fault-revealing mutants</span> <span class="w3-tag w3-round w3-center">Machine learning</span></p>
+
+
+  </div><a class="u-url" href="/publications/2023-01-01-jp1.html" hidden></a>
 </article>
 
 		</div>

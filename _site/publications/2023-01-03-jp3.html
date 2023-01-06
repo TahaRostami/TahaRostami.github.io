@@ -3,22 +3,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>TripadvisorWebScraper | Taha Rostami</title>
+<title>An interpretable model for predicting non-trivial equivalent mutants of the MART | Taha Rostami</title>
 <meta name="generator" content="Jekyll v4.3.1" />
-<meta property="og:title" content="TripadvisorWebScraper" />
+<meta property="og:title" content="An interpretable model for predicting non-trivial equivalent mutants of the MART" />
 <meta name="author" content="TahaRostami" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes." />
-<meta property="og:description" content="This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes." />
-<link rel="canonical" href="http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html" />
-<meta property="og:url" content="http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html" />
+<meta name="description" content="The state-of-the-art method for predicting equivalent mutants is a hard-to-interpret model with 1073 features. We proposed an interpretable model consisting of only 4 features. The proposed method outperforms state-of-the-art methods in terms of prediction accuracy and interpretability." />
+<meta property="og:description" content="The state-of-the-art method for predicting equivalent mutants is a hard-to-interpret model with 1073 features. We proposed an interpretable model consisting of only 4 features. The proposed method outperforms state-of-the-art methods in terms of prediction accuracy and interpretability." />
+<link rel="canonical" href="http://localhost:4000/publications/2023-01-03-jp3.html" />
+<meta property="og:url" content="http://localhost:4000/publications/2023-01-03-jp3.html" />
 <meta property="og:site_name" content="Taha Rostami" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-01-12T00:00:00+03:30" />
+<meta property="article:published_time" content="2023-01-03T00:00:00+03:30" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="TripadvisorWebScraper" />
+<meta property="twitter:title" content="An interpretable model for predicting non-trivial equivalent mutants of the MART" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"TahaRostami"},"dateModified":"2021-01-12T00:00:00+03:30","datePublished":"2021-01-12T00:00:00+03:30","description":"This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes.","headline":"TripadvisorWebScraper","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html"},"url":"http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"TahaRostami"},"dateModified":"2023-01-03T00:00:00+03:30","datePublished":"2023-01-03T00:00:00+03:30","description":"The state-of-the-art method for predicting equivalent mutants is a hard-to-interpret model with 1073 features. We proposed an interpretable model consisting of only 4 features. The proposed method outperforms state-of-the-art methods in terms of prediction accuracy and interpretability.","headline":"An interpretable model for predicting non-trivial equivalent mutants of the MART","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/publications/2023-01-03-jp3.html"},"url":"http://localhost:4000/publications/2023-01-03-jp3.html"}</script>
 <!-- End Jekyll SEO tag -->
 <!--<link rel="stylesheet" href="/assets/css/style.css">-->
   <link rel="stylesheet" href="/assets/css/github-markdown.css">
@@ -61,31 +61,29 @@
 		    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">TripadvisorWebScraper</h1>
-    <p class="post-meta"><time class="dt-published" datetime="2021-01-12T00:00:00+03:30" itemprop="datePublished">
-        Jan 12, 2021
+    <h1 class="post-title p-name" itemprop="name headline">An interpretable model for predicting non-trivial equivalent mutants of the MART</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2023-01-03T00:00:00+03:30" itemprop="datePublished">
+        Jan 3, 2023
       </time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes.</p>
+    <p>The state-of-the-art method for predicting equivalent mutants is a hard-to-interpret model with 1073 features. We proposed an interpretable model consisting of only 4 features. The proposed method outperforms state-of-the-art methods in terms of prediction accuracy and interpretability.</p>
 
-<h2 id="problem-definition">Problem definition</h2>
-<p align="justify"><a href="https://www.tripadvisor.com/">Tripadvisor</a> is a well-known website where people can share their experiences and thoughts about various travelling-related topics. My friend <a href="https://scholar.google.com/citations?user=GqH9-rsAAAAJ&amp;hl=en&amp;oi=ao">Sadaf Rabiee Mary</a> needed to access some data from Tripadvisor. So, she asked me to write a program to extract the needed data.</p>
+<p>Mutation testing is a powerful method used in software testing to support several activities,such as guidance for test case generation, test suite quality assessment and test suite optimization. Decades of research have shown the method’s powerfulness compared to almost all other testing criteria. However, the method has its challenges as well. Mutation testing tools generate several equivalent mutants, which waste resources unnecessarily and threaten the mutation score validity. Unfortunately, identifying equivalent mutants is an undecidable problem and requires manual analysis. On the positive side, various papers proposed methods to partially address the issue, but the main problem is open. To better understand the nature of equivalent mutants, this paper focuses on identifying the equivalent mutants produced by the recently developed mutation testing tool MART. In this regard, we propose an interpretable model capable of predicting nontrivial equivalent mutants comparable to the state-of-the-art method. In particular, the state-of-the-art method is a hard-to-interpret model with 1073 features. On the other hand, our proposed method consists of only 4 interpretable features and reached the AUC value of 89.02%, outperforming the state-of-the-art, which reached the AUC value of 88.38% on the Codeflaws dataset.</p>
 
-<h2 id="what-we-did">What we did</h2>
+<p><strong>Language(s):</strong> English</p>
 
-<p align="justify">I wrote a program using a python package named BeautifulSoup, which extracts the required data. Unfortunately, Tripadvisor prohibited using their data for research purposes. Therefore, we followed their obligations and didn't continue that research. Nevertheless, I made the code publicly available because it might be beneficial for others searching for a simple way to extract data from websites other than Tripadvisor.</p>
+<p><strong>Authors:</strong> Taha Rostami, Hesam Omranpour</p>
 
-<p><strong>Application Language(s):</strong> English</p>
+<p><strong>Published in:</strong> Prepared, would be submitted in the coming week</p>
 
-<p><strong>Programming Languages and Technologies:</strong> Python</p>
+<p><a href="https://github.com/TahaRostami/predicting-non-trivial-equivalent-mutants-of-the-MART"><strong>URL</strong></a></p>
 
-<p><strong>Member(s):</strong> Taha Rostami</p>
+<p><strong>Keywords:</strong> <span class="w3-tag w3-round w3-center">Software testing</span> <span class="w3-tag w3-round w3-center">Mutation testing</span> <span class="w3-tag w3-round w3-center">Equivalent mutants</span> <span class="w3-tag w3-round w3-center">Interpretability</span></p>
 
-<p><strong><a href="https://github.com/TahaRostami/Toy_Projects/tree/main/TripadvisorWebScraper/S">codes and more information ( Available)</a></strong></p>
 
-  </div><a class="u-url" href="/projects/2021-01-12-TripadvisorWebScraper.html" hidden></a>
+  </div><a class="u-url" href="/publications/2023-01-03-jp3.html" hidden></a>
 </article>
 
 		</div>

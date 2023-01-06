@@ -3,22 +3,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>TripadvisorWebScraper | Taha Rostami</title>
+<title>Extracting the data from WHO | Taha Rostami</title>
 <meta name="generator" content="Jekyll v4.3.1" />
-<meta property="og:title" content="TripadvisorWebScraper" />
+<meta property="og:title" content="Extracting the data from WHO" />
 <meta name="author" content="TahaRostami" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes." />
-<meta property="og:description" content="This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes." />
-<link rel="canonical" href="http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html" />
-<meta property="og:url" content="http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html" />
+<meta name="description" content="Extracting the data from World Health Organization (WHO) and converting it into a desirable format for analytical purposes" />
+<meta property="og:description" content="Extracting the data from World Health Organization (WHO) and converting it into a desirable format for analytical purposes" />
+<link rel="canonical" href="http://localhost:4000/projects/2022-01-02-WHO.html" />
+<meta property="og:url" content="http://localhost:4000/projects/2022-01-02-WHO.html" />
 <meta property="og:site_name" content="Taha Rostami" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-01-12T00:00:00+03:30" />
+<meta property="article:published_time" content="2022-01-02T00:00:00+03:30" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="TripadvisorWebScraper" />
+<meta property="twitter:title" content="Extracting the data from WHO" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"TahaRostami"},"dateModified":"2021-01-12T00:00:00+03:30","datePublished":"2021-01-12T00:00:00+03:30","description":"This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes.","headline":"TripadvisorWebScraper","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html"},"url":"http://localhost:4000/projects/2021-01-12-TripadvisorWebScraper.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"TahaRostami"},"dateModified":"2022-01-02T00:00:00+03:30","datePublished":"2022-01-02T00:00:00+03:30","description":"Extracting the data from World Health Organization (WHO) and converting it into a desirable format for analytical purposes","headline":"Extracting the data from WHO","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/2022-01-02-WHO.html"},"url":"http://localhost:4000/projects/2022-01-02-WHO.html"}</script>
 <!-- End Jekyll SEO tag -->
 <!--<link rel="stylesheet" href="/assets/css/style.css">-->
   <link rel="stylesheet" href="/assets/css/github-markdown.css">
@@ -61,31 +61,48 @@
 		    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">TripadvisorWebScraper</h1>
-    <p class="post-meta"><time class="dt-published" datetime="2021-01-12T00:00:00+03:30" itemprop="datePublished">
-        Jan 12, 2021
+    <h1 class="post-title p-name" itemprop="name headline">Extracting the data from WHO</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2022-01-02T00:00:00+03:30" itemprop="datePublished">
+        Jan 2, 2022
       </time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>This is a simple web scrapper program for scrapping Tripadvisor and collecting data for data analysis purposes.</p>
+    <p align="justify"> 
+Extracting the data from World Health Organization (WHO) and converting it into a desirable format for analytical purposes
+</p>
 
 <h2 id="problem-definition">Problem definition</h2>
-<p align="justify"><a href="https://www.tripadvisor.com/">Tripadvisor</a> is a well-known website where people can share their experiences and thoughts about various travelling-related topics. My friend <a href="https://scholar.google.com/citations?user=GqH9-rsAAAAJ&amp;hl=en&amp;oi=ao">Sadaf Rabiee Mary</a> needed to access some data from Tripadvisor. So, she asked me to write a program to extract the needed data.</p>
+
+<p align="justify"> 
+<a href="https://scholar.google.com/citations?hl=en&amp;user=N3hztTAAAAAJ&amp;view_op=list_works&amp;sortby=pubdate)">Dr. Waldemar W. Koczkodaj</a> needed to access data provided by WHO in a desirable format. So, he asked me to find a way to extract the data available at <a href="https://covid19.who.int/table">https://covid19.who.int/table</a>. Since this data is updated consistently, he asked me to find a way to prove that WHO hosts the data we extracted.
+</p>
 
 <h2 id="what-we-did">What we did</h2>
 
-<p align="justify">I wrote a program using a python package named BeautifulSoup, which extracts the required data. Unfortunately, Tripadvisor prohibited using their data for research purposes. Therefore, we followed their obligations and didn't continue that research. Nevertheless, I made the code publicly available because it might be beneficial for others searching for a simple way to extract data from websites other than Tripadvisor.</p>
+<p align="justify"> 
+Since this page uses React for binding (i.e. it dynamically modifies DOM), it wasn't possible to copy and paste the table or do this by a static web crawler. So, the reasonable solution is to use browser simulation packages like selenium (an automated software testing package). However, even in this case, some trick is needed. So, to solve this problem, I used a different approach. I tracked this page's HTTP requests to find the data source.  
+</p>
 
-<p><strong>Application Language(s):</strong> English</p>
+<p align="justify"> 
+Interestingly, I found WHO has made the whole data in JSON format available at <a href="https://covid19.who.int/page-data/sq/d/3713876948.json"> LINK </a>. Therefore, we can use the latest version of this dataset whenever we want. The following code shows how we can do this in a line of code.
+</p>
+
+<p><img src="https://user-images.githubusercontent.com/30346122/209471977-cffc5c4f-a096-4c08-9ce6-4b1d4635479c.png" alt="code" class="w3-image" /></p>
+
+<p align="justify">   
+To prove that WHO hosts this data, I searched for a website named <a href="https://archive.org/web/">wayback machine</a>, in which one can take screenshots from an arbitrary webpage and use it as a trusted citation. Therefore, I suggested using this website for the second part of the problem.
+</p>
+
+<p><strong>Application Language(s):</strong> N/A</p>
 
 <p><strong>Programming Languages and Technologies:</strong> Python</p>
 
 <p><strong>Member(s):</strong> Taha Rostami</p>
 
-<p><strong><a href="https://github.com/TahaRostami/Toy_Projects/tree/main/TripadvisorWebScraper/S">codes and more information ( Available)</a></strong></p>
+<p><strong><a href="#">codes and more information ( N/A)</a></strong></p>
 
-  </div><a class="u-url" href="/projects/2021-01-12-TripadvisorWebScraper.html" hidden></a>
+  </div><a class="u-url" href="/projects/2022-01-02-WHO.html" hidden></a>
 </article>
 
 		</div>
