@@ -13,12 +13,11 @@ txtAlign: justify
 # Biography
 
 
-I graduated with a Master's degree in software engineering from [Tarbiat Modares University](https://www.modares.ac.ir/en/aboutus) in Tehran. I worked on [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) under the supervision of [Dr. Saeed Jalili](https://www.modares.ac.ir/~sjalili), and the title of my thesis was Selecting fault revealing mutants by ensemble learning approach.
+I graduated with a Master’s degree in software engineering from [Tarbiat Modares University, Tehran](https://www.modares.ac.ir/en/aboutus). I worked on [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) under the supervision of [Dr. Saeed Jalili](https://www.modares.ac.ir/~sjalili), and the title of my thesis was Selecting fault revealing mutants by ensemble learning approach. I mainly studied machine learning for code-related tasks in the last few years. For implementation purposes, I used Python programming language to work with machine learning frameworks such as Sklearn, lightGBM, Xgboost, CatBoost, PyTorch, Tensorflow, Stable Baselines, Optuna, etc.
 
-I received my B.Sc. in software engineering at [Babol Noshirvani University of Technology, Mazandaran](https://en.nit.ac.ir/). my undergraduate project was [Harif](https://github.com/TahaRostami/Harif) a graph-based automatic course-selection system that recommends schedules based on student’s preferences.
+I received my B.Sc. in software engineering at the [Babol Noshirvani University of Technology, Mazandaran](https://en.nit.ac.ir/). my undergraduate project was [Harif](https://github.com/TahaRostami/Harif). This graph-based automatic course-selection system recommends schedules based on students’ preferences. During my B.Sc., I was interested in Microsoft technologies. Throughout those years, I gained valuable experiences working with Windows Forms Application, Windows Presentation Foundation, ASP.NET Webforms, ASP.NET MVC, SignalR, ASP.NET Core, SignalR Core, Microsoft SQL Server and ML.NET.
 
-Before starting my path as a dedicated student, I was a professional chess player in high school. I gained many awards such as [Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012](http://chess-results.com/tnr76304.aspx?lan=1&art=72).
-
+Before starting my path as a dedicated student, I was a professional chess player in high school. I gained many awards, such as being [Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012](http://chess-results.com/tnr76304.aspx?lan=1&art=72).
 
 
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
