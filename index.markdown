@@ -37,8 +37,8 @@ Before starting my path as a dedicated student, I was a professional chess playe
   <div class="w3-col l6 m6 s12">
     <h2 id="Education">Education</h2>
     <ul>
-      <li><p>Msc in Software Engineering at Tarbiat Modares University, Tehran, GPA 18.05/20 (3.88/4.0), 2019-2022</p></li>
-      <li><p>Bsc in Software Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 16.83/20 (3.55/4.0), 2014-2019</p></li>
+      <li><p>MSc in Software Engineering at Tarbiat Modares University, Tehran, GPA 18.05/20 (3.88/4.0), 2019-2022</p></li>
+      <li><p>BSc in Software Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 16.83/20 (3.55/4.0), 2014-2019</p></li>
     </ul>
   </div>
 </div>
