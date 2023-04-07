@@ -27,7 +27,7 @@ Before starting my path as a dedicated student, I was a professional chess playe
     <h2 id="research-interests">Research Interests</h2>
     <ul>
       <li><p>Program Analysis</p></li>
-	  <li><p>Automated Software Testing</p></li>
+	  <li><p>Software Testing</p></li>
 	  <li><p>Formal Methods</p></li>
       <li><p>Machine Learning Algorithms</p></li>	  
       <li><p>Decision-making Under Uncertainty</p></li>
@@ -44,7 +44,10 @@ Before starting my path as a dedicated student, I was a professional chess playe
 </div>
 
 # Languages
-Persian, English
+<ul>
+      <li><p>Persian - mother tongue</p></li>
+      <li><p>English – TOEFL iBT: Total 93, Reading 28, Listening 21, Speaking 22, Writing 22, April 01, 2023</p></li>
+</ul>  
 
 # Hobbies and Interests
 Chess, History, Literature, Painting, Calligraphy, Watching Youtube
