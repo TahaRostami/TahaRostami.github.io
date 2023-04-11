@@ -26,12 +26,13 @@ Before starting my path as a dedicated student, I was a professional chess playe
   <div class="w3-col l6 m6 s12">
     <h2 id="research-interests">Research Interests</h2>
     <ul>
-      <li><p>Program Analysis</p></li>
+          <li><p>Program Analysis</p></li>
 	  <li><p>Software Testing</p></li>
 	  <li><p>Formal Methods</p></li>
-      <li><p>Machine Learning Algorithms</p></li>	  
-      <li><p>Decision-making Under Uncertainty</p></li>
-      <li><p>Complexity Theory & Designing Algorithms</p></li>
+          <li><p>Machine Learning Algorithms</p></li>
+	  <li><p>Natural Language Processing</p></li>
+<!--      <li><p>Decision-making Under Uncertainty</p></li>
+      <li><p>Complexity Theory & Designing Algorithms</p></li> -->
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">
