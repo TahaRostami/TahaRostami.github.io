@@ -26,7 +26,7 @@ Before starting my path as a dedicated student, I was a professional chess playe
   <div class="w3-col l6 m6 s12">
     <h2 id="research-interests">Research Interests</h2>
     <ul>
-          <li><p>Text analysis</p></li>
+          <li><p>Text Analysis</p></li>
 	  <li><p>Computational Logic and Reasoning</p></li>
 	  <li><p>Constraint Satsisfaction Problems</p></li>
           <li><p>Machine Learning Algorithms</p></li>
