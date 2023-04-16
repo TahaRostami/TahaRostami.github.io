@@ -26,10 +26,10 @@ Before starting my path as a dedicated student, I was a professional chess playe
   <div class="w3-col l6 m6 s12">
     <h2 id="research-interests">Research Interests</h2>
     <ul>
-          <li><p>Text analysis (everything that is represented textual, e.g., source code of a program, natural language text, clinical text, etc.)</p></li>
-	  <li><p>Computational Logic and Reasoning (both classical and probabilistic)</p></li>
-	  <li><p>Constraint Satsisfaction Problems </p></li>
-          <li><p>Machine Learning Algorithms (symbolic and classical one, deep learning and reinforcement learning)</p></li>
+          <li><p>Text analysis</p></li>
+	  <li><p>Computational Logic and Reasoning</p></li>
+	  <li><p>Constraint Satsisfaction Problems</p></li>
+          <li><p>Machine Learning Algorithms</p></li>
 	  <li><p>Complexity Theory & Designing Algorithms</p></li>
 <!--      <li><p>Decision-making Under Uncertainty</p></li> -->
     </ul>       
