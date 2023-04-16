@@ -26,13 +26,12 @@ Before starting my path as a dedicated student, I was a professional chess playe
   <div class="w3-col l6 m6 s12">
     <h2 id="research-interests">Research Interests</h2>
     <ul>
-          <li><p>Program Analysis</p></li>
-	  <li><p>Software Testing</p></li>
-	  <li><p>Formal Methods</p></li>
-          <li><p>Machine Learning Algorithms</p></li>
-	  <li><p>Natural Language Processing</p></li>
-<!--      <li><p>Decision-making Under Uncertainty</p></li>
-      <li><p>Complexity Theory & Designing Algorithms</p></li> -->
+          <li><p>Text analysis (everything as long as it is represented as a text- such as source code of a program, natural language text, clinical text, and many others)</p></li>
+	  <li><p>Computational Logic and Reasoning (both classical and probabilistic)</p></li>
+	  <li><p>Constraint Satsisfaction Problems </p></li>
+          <li><p>Machine Learning Algorithms (symbolic and classical one, deep learning and reinforcement learning)</p></li>
+	  <li><p>Complexity Theory & Designing Algorithms</p></li>
+<!--      <li><p>Decision-making Under Uncertainty</p></li> -->
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">
@@ -46,12 +45,12 @@ Before starting my path as a dedicated student, I was a professional chess playe
 
 # Languages
 <ul>
-      <li><p>Persian - mother tongue</p></li>
+      <li><p>Persian - native</p></li>
       <li><p>English – TOEFL iBT: Total 93, Reading 28, Listening 21, Speaking 22, Writing 22, April 01, 2023</p></li>
 </ul>  
 
 # Hobbies and Interests
-Chess, History, Literature, Painting, Calligraphy, Watching Youtube
+Chess, History, Philosophy, Literature, Painting, Calligraphy, Watching Youtube
 
 
 <div class="w3-row">
