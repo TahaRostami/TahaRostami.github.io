@@ -8,7 +8,7 @@ txtAlign: justify
 
 # Selected chess games
 
-I was a professional chess player throughout my teens. In the middle of the journey, I decided to focus on my studies and chose computer science as my new passion. So I left professional chess.
+I was a chess player throughout my teens. In the middle of the journey, I decided to focus on my studies and chose computer science as my new passion.
 
 Fortunately, I had the chance to play with some of the best chess players in Iran. So I selected some of my games with them. these are some of the games that I'm most fond of, as they have both emotional and professional value to me.
 
@@ -30,10 +30,10 @@ You can find and see the selected games using links below:
 - [Sharifi vs Taha Rostami, 2010](https://lichess.org/O8HdRKJS/black)
 
   
-<!-- If you are interested to see more games, you can follow me on [Lichess](https://lichess.org/@/ChessVar_T) where I play chess yet as a hobby. -->
+<!-- If you are interested to see more games, you can follow me on [Lichess](https://lichess.org/@/uname) where I play chess yet as a hobby. -->
 
 
-If you are interested to know more about my professional chess history, [this](https://ratings.fide.com/profile/12528749) is my profile in [FIDE](https://en.wikipedia.org/wiki/FIDE).
+If you are interested to know more about my chess history, [this](https://ratings.fide.com/profile/12528749) is my profile in [FIDE](https://en.wikipedia.org/wiki/FIDE).
 
 <!-- If you like to play chess with me, we can schedule (I provided my contact information in the *Home Page*) and play on lichess. -->
 
