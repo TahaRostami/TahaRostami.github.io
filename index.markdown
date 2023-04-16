@@ -20,7 +20,7 @@ I received my B.Sc. in software engineering at the [Babol Noshirvani University 
 Before starting my path as a dedicated student, I was a professional chess player in high school. I gained many awards, such as being [Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012](http://chess-results.com/tnr76304.aspx?lan=1&art=72).
 
 
-<a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
+<a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
 
 <div class="w3-row">
   <div class="w3-col l6 m6 s12">
