@@ -17,7 +17,7 @@ I graduated with a Master’s degree in software engineering from [Tarbiat Modar
 
 I received my B.Sc. in software engineering at the [Babol Noshirvani University of Technology, Mazandaran](https://en.nit.ac.ir/). My undergraduate project was [Harif](https://github.com/TahaRostami/Harif). This graph-based automatic course-selection system recommends schedules based on students’ preferences. During my B.Sc., I was interested in Microsoft technologies. Throughout those years, I gained valuable experiences working with Windows Forms Application, Windows Presentation Foundation, ASP.NET Webforms, ASP.NET MVC, SignalR, ASP.NET Core, SignalR Core, Microsoft SQL Server and ML.NET.
 
-Before starting my path as a dedicated student, I was a professional chess player in high school. I gained many awards, such as being [Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012](http://chess-results.com/tnr76304.aspx?lan=1&art=72).
+Before starting my path as a dedicated student, I was a chess player in high school. I gained many awards, such as being [Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012](http://chess-results.com/tnr76304.aspx?lan=1&art=72).
 
 
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
