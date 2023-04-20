@@ -45,7 +45,7 @@ Before starting my path as a dedicated student, I was a chess player in high sch
 
 # Languages
 <ul>
-      <li><p>Persian - native</p></li>
+      <li><p>Persian - Native</p></li>
       <li><p>English – TOEFL iBT: Total 93, Reading 28, Listening 21, Speaking 22, Writing 22, April 01, 2023</p></li>
 </ul>  
 
