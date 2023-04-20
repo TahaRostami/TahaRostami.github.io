@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Navigating the Challenges of Studying Computer Science: A Guide for Students at Babol Noshirvani University of Technology"
+
 ---
 
 This paper provides a practical guide for computer science students at Babol Noshirvani University of Technology, based on personal experiences and observations. It offers insights into common misconceptions about the field and strategies for success, covering topics such as effective studying and tips for success. However, it is worth noting that this is not a scientific paper intended for publication.
