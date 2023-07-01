@@ -32,6 +32,8 @@ Before starting my path as a dedicated student, I was a chess player in high sch
           <li><p>Unconventional Computing</p></li>
 	  <li><p>Automated Software Engineering</p></li>
 	  <li><p>Text Analysis</p></li>
+	  <li><p>Computer Education</p></li>
+	    
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">
