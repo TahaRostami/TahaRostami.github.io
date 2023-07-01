@@ -26,12 +26,12 @@ Before starting my path as a dedicated student, I was a chess player in high sch
   <div class="w3-col l6 m6 s12">
     <h2 id="research-interests">Research Interests</h2>
     <ul>
-          <li><p>Text Analysis</p></li>
-	  <li><p>Computational Logic and Reasoning</p></li>
-	  <li><p>Constraint Satsisfaction Problems</p></li>
+	  <li><p>Computational Logic and Automated Reasoning</p></li>
           <li><p>Machine Learning Algorithms</p></li>
 	  <li><p>Complexity Theory & Designing Algorithms</p></li>
-<!--      <li><p>Decision-making Under Uncertainty</p></li> -->
+          <li><p>Unconventional Computing</p></li>
+	  <li><p>Automated Software Engineering</p></li>
+	  <li><p>Text Analysis</p></li>
     </ul>       
   </div>
   <div class="w3-col l6 m6 s12">
