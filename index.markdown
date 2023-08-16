@@ -29,7 +29,6 @@ Before starting my path as a dedicated student, I was a chess player in high sch
 	  <li><p>Computational Logic and Automated Reasoning</p></li>
           <li><p>Machine Learning Algorithms</p></li>
 	  <li><p>Complexity Theory & Designing Algorithms</p></li>
-          <li><p>Unconventional Computing</p></li>
 	  <li><p>Automated Software Engineering</p></li>
 	  <li><p>Text Analysis</p></li>
 	  <li><p>Computer Education</p></li>
