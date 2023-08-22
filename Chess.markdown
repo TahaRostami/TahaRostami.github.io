@@ -1,12 +1,12 @@
 ---
 layout: page
-title: SELECTED CHESS GAMES
+title: PREVIOUS LIFE
 icon: fa fa-gamepad fa-fw w3-margin-right
 permalink: /selected-chess-games/
 txtAlign: justify
 ---
 
-# Selected chess games
+# Previous Life
 
 I was initiated into the game of chess by one of my cousins at the tender age of nine. At that time, the game was a delightful but unrealistic experience, as there was no differentiation between different pieces. We could even hit the kings! However, my world was shattered a year later when I learned about check and mate from another cousin. I should have intuitively known such rules before, as the real world is governed by laws and rules that favor certain kinds of discrimination. From that moment on, I was hooked. I played with family members and against chess engines whenever I could.
 
