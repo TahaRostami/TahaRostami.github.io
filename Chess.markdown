@@ -2,7 +2,7 @@
 layout: page
 title: PREVIOUS LIFE
 icon: fa fa-gamepad fa-fw w3-margin-right
-permalink: /selected-chess-games/
+permalink: /previous-life/
 txtAlign: justify
 ---
 
