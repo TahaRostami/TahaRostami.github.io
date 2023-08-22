@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PREVIOUS LIFE
+title: PREVIOUS_LIFE
 icon: fa fa-gamepad fa-fw w3-margin-right
 permalink: /previous-life/
 txtAlign: justify
