@@ -13,45 +13,10 @@ txtAlign: justify
 # Biography
 
 
-I graduated with a Master’s degree in software engineering from [Tarbiat Modares University, Tehran](https://www.modares.ac.ir/en/aboutus). I worked on [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) under the supervision of [Dr. Saeed Jalili](https://www.modares.ac.ir/~sjalili), and the title of my thesis was Selecting fault revealing mutants by ensemble learning approach. I mainly studied machine learning for code-related tasks in the last few years. For implementation purposes, I used Python programming language to work with machine learning frameworks such as Sklearn, lightGBM, Xgboost, CatBoost, PyTorch, Tensorflow, Stable Baselines, Optuna, etc.
-
-I received my B.Sc. in software engineering at the [Babol Noshirvani University of Technology, Mazandaran](https://en.nit.ac.ir/). My undergraduate project was [Harif](https://github.com/TahaRostami/Harif). This graph-based automatic course-selection system recommends schedules based on students’ preferences. During my B.Sc., I was interested in Microsoft technologies. Throughout those years, I gained valuable experiences working with Windows Forms Application, Windows Presentation Foundation, ASP.NET Webforms, ASP.NET MVC, SignalR, ASP.NET Core, SignalR Core, Microsoft SQL Server and ML.NET.
-
-Before starting my path as a dedicated student, I was a chess player in high school. I gained many awards, such as being [Ranked 3rd place in Asian youth Blitz chess championships, with the Iranian National Team, Southern, Sri Lanka, 2012](http://chess-results.com/tnr76304.aspx?lan=1&art=72).
+I used to be a chess player years ago, but since then, I've been working in the field of computer science. These days, I'm mainly focused on SMTSolvers4ML, ML4SMTSolvers, and ML + SMT, but I also enjoy studying the history of computation for fun. Sometimes, I like to think and write about personalized teaching and helping people through reaching something they are interested in, although it's really just based on my own experiences and thoughts and not something I'm a professional in.
 
 
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
-
-<div class="w3-row">
-  <div class="w3-col l6 m6 s12">
-    <h2 id="research-interests">Research Interests</h2>
-    <ul>
-	  <li><p>Computational Logic and Automated Reasoning</p></li>
-          <li><p>Machine Learning Algorithms</p></li>
-	  <li><p>Complexity Theory & Designing Algorithms</p></li>
-	  <li><p>Automated Software Engineering</p></li>
-	  <li><p>Text Analysis</p></li>
-	  <li><p>Computer Education</p></li>
-	    
-    </ul>       
-  </div>
-  <div class="w3-col l6 m6 s12">
-    <h2 id="Education">Education</h2>
-    <ul>
-      <li><p>MSc in Software Engineering at Tarbiat Modares University, Tehran, GPA 18.05/20 (3.88/4.0), 2019-2022</p></li>
-      <li><p>BSc in Software Engineering at Babol Noshirvani University of Technology, Mazandaran, GPA 16.83/20 (3.55/4.0), 2014-2019</p></li>
-    </ul>
-  </div>
-</div>
-
-# Languages
-<ul>
-      <li><p>Persian - Native</p></li>
-      <li><p>English – TOEFL iBT: Total 93, Reading 28, Listening 21, Speaking 22, Writing 22, April 01, 2023</p></li>
-</ul>  
-
-# Hobbies and Interests
-Chess, History, Philosophy, Literature, Painting, Calligraphy, Watching Youtube
 
 
 <div class="w3-row">
