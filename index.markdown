@@ -33,7 +33,6 @@ I used to be a chess player years ago, but since then, I've been working in the 
       <ul>
         <li><p>Email: taha.rostami.darunkola@gmail.com</p></li>
         <li><p>Email: taha.rostami@modares.ac.ir</p></li>
-        <li><p>Phone: +98 911 778 4216</p></li>
       </ul>
   </div>
 </div>
