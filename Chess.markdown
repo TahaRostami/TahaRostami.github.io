@@ -41,7 +41,7 @@ Some of my souvenirs and works of art for chess enthusiasts:
 <!-- If you are interested to see more games, you can follow me on [Lichess](https://lichess.org/@/uname) where I play chess yet as a hobby. -->
 
 
-If you are interested to know more about my chess history, [this](https://ratings.fide.com/profile/12528749) is my profile in [FIDE](https://en.wikipedia.org/wiki/FIDE).
+<!-- If you are interested to know more about my chess history, [this](https://ratings.fide.com/profile/12528749) is my profile in [FIDE (https://en.wikipedia.org/wiki/FIDE). -->
 
 <!-- If you like to play chess with me, we can schedule (I provided my contact information in the *Home Page*) and play on lichess. -->
 
