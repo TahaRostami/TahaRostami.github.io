@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SHARED
-icon: fa fa-gamepad fa-fw w3-margin-right
+icon: fa fa-share-alt fa-fw w3-margin-right
 permalink: /shared/
 txtAlign: justify
 ---
@@ -9,12 +9,12 @@ txtAlign: justify
 
 # Shared
 
-  </br>
+  <br>
   <blockquote class="w3-panel w3-leftbar w3-light-grey">
     <p class="w3-large"><i>"Tell me and I'll forget; show me and I may remember; involve me and I'll understand."</i></p>
     <p>Chinese proverb.</p>
   </blockquote> 
-  </br>
+  <br>
 
 
 I am self-taught in English and learned by directly reading computer science textbooks. For years, I only focused on reading and did not feel the need to learn other skills, such as writing, speaking, and listening. 
