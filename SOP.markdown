@@ -8,13 +8,27 @@ txtAlign: justify
 
 # Statement of Purpose
 
-A few months ago, I successfully defended my MSc thesis. After careful consideration, I have decided to pursue further studies abroad. As someone who values clarity and thoroughness, I have created this temporary page in order to share my statement of purpose for conducting research in the coming years. My hope is that this statement will be helpful not only to myself, but also to potential supervisors, co-supervisors, and anyone else who may be interested in my academic pursuits.
+A few moons have passed since I defended my MSc thesis with great success. After much introspection, I have resolved to pursue further studies abroad. As someone who cherishes lucidity and meticulousness, I have crafted this temporary page to share my statement of purpose for research in the coming years. It is my fervent hope that this statement will serve not only as a guide for myself, but also for prospective supervisors, co-supervisors, and anyone interested in my academic aspirations.
 
 ---
 
+My foray into the world of applied machine learning for software testing has spanned two years. Under the supervision of Dr. Jalili [[website](https://www.modares.ac.ir/~sjalili), [google scholar](https://scholar.google.com/citations?user=j6gUwMkAAAAJ&hl=en)], an erudite scholar who devotes much of his time to research and students, I have garnered a wealth of knowledge in this field. Yet, I have also realized, with a profound sense of awe, the enormity of the task of creating new knowledge.
 
-I have two years of experience researching applied machine learning for software testing. My supervisor, Dr. Jalili [[website](https://www.modares.ac.ir/~sjalili), [google scholar](https://scholar.google.com/citations?user=j6gUwMkAAAAJ&hl=en)], dedicates much time to his research and students. As a result, I have had the opportunity to learn about the research up and down. At the same time, I realized with my soul how challenging it can be to bring something new into this world regarding knowledge.
+My foray into the world of applied machine learning for software testing has spanned two years. Under the tutelage of Dr. Jalili [website, google scholar], an erudite scholar who devotes much of his time to research and students, I have garnered a wealth of knowledge in this field. Yet, I have also realized, with a profound sense of awe, the enormity of the task of creating new knowledge.
 
+Thus, after defending my thesis, I was faced with a daunting decision - to continue my research or seek employment. Ultimately, I found that the passion of solving an unsolved problem or tackling a problem in a novel way resonated with my soul. It was clear, then, that I had to continue my research.
+
+However, I was mindful of the arduous path ahead and felt compelled to choose a topic that truly captivated my interest and motivation. Although the natural progression for me was to pursue a Ph.D. in software testing, which I had devoted much time to studying, I resolved to be patient and reflect before making any commitments.
+
+Since that time, I have devoted my abundant free time to perusing a plethora of enlightening talks and courses, such as the Satisfiability: Theory, Practice, and Beyond Boot Camp, Andrew Ng’s ML course, and reading the first three chapters of the COMPUTERS AND INTRACTABILITY: A Guide to the Theory of NP-Completeness. Additionally, I have reviewed parts of a book I read years ago, the CLRS.
+
+Through these endeavors, I have discovered a wide range of research interests, though I am not an expert in all of them. Nevertheless, I have gained a deeper understanding of my primary areas of interest. Before delving into these areas, let me explain what I mean by my theme of interest.
+
+Having conducted empirical research on a subject heavily reliant on technology for two years, I have come to appreciate the importance of theory. While technological research may generate instant attention and citations, it often fades just as quickly, unlike the Cook-Levin theorem which has had a lasting impact on the field for over half a century. This is not to say that I am averse to empirical studies, but rather that moving forward, I prefer to prioritize theory and only use empirical studies when they can contribute to the development or supplementation of existing theories. To summarize, my primary principle for the foreseeable future is to prioritize theory and use empirical studies to support it.
+
+In the following sections, I will describe my current areas of research interest (in no particular order). By clicking on each section, you will find a detailed description of the aspect of the area I am focusing on, why I find it compelling, what I wish this area could cover, my initial objective, and my initial plan. However, these details are subject to change. The final point in each section states my preference regarding MSc or Ph.D. My exceptions are in the areas of Software Engineering and Others, as my views on these areas are evident from my CV and website.
+
+--
 So, after defending my thesis, it was a big dilemma to choose between continuing to do research or going to work. It turns out that though it is hard, solving an unsolved problem or solving a problem different than what used to be solved before is really passionate me. So, I decided to continue the research.
 
 However, since I know the path's difficulty, I want to make sure I go for something I am interested in and motivated. So, though the natural option for me was to go for a Ph.D. and do research in software testing — the thing that I spent a lot of time getting familiar with, I preferred to be patient and think before making any decision.
