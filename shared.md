@@ -17,12 +17,12 @@ txtAlign: justify
 
 
 
-I am self-taught in English and learned by directly reading computer science textbooks. For years, I only focused on reading and did not feel the need to learn other skills, such as writing, speaking, and listening. 
+English is not my native tongue, but I am self-taught in its ways. I spent years immersed in computer science textbooks, honing my comprehension skills. However, I realized the limitations of such a narrow focus when I decided to pursue higher education abroad. In order to fully engage with the world, I knew I needed to improve my abilities in writing, speaking, and listening.
 
-Recently, I realized the importance of these skills when I decided to continue my study abroad. As a result, I now frequently listen to English videos and practice writing and speaking. I have also revisited some of my well-taught experiences and stories and have been sharing them under the pseudonym DearProfessorHunter. I chose this name because I enjoy shows like Mind Hunter and Money Heist and also because adding "Dear" to emails is a common convention when addressing professors.
+Thus, I embarked on a journey of self-improvement. I challenged myself to listen to English videos on a daily basis, and I made a conscious effort to practice my writing and speaking skills. Along the way, I revisited some of the stories and experiences that had shaped me. Under the pseudonym DearProfessorHunter, I began sharing these personal anecdotes with the world. The name was inspired by my love of shows like Mind Hunter and Money Heist, as well as the academic tradition of addressing one's professors as "Dear."
 
-For now, you can check out my posts in the following link, though someday, I may choose an alternative medium.
+If you'd like to read some of my musings, for now, you can check out my posts in the following link, though someday, I may choose an alternative medium.
 
 [DearProfessorHunter's website](https://dearprofessorhunter.notion.site/dearprofessorhunter/Home-cd5bc9dd95bb4eebb0466452e17658f1)
 
-I hope you find my writings useful in some way, even if I'm not sure how yet.
+I hope that my writing resonates with you in some way, even if I'm not yet sure how.
