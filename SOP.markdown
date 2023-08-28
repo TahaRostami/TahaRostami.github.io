@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SOP
-icon: fa fa-gamepad fa-fw w3-margin-right
+icon: fa fa-graduation-cap fa-fw w3-margin-right
 permalink: /sop/
 txtAlign: justify
 ---
@@ -29,106 +29,105 @@ In the following, my current areas of interest for research are described **(wit
 
 
 <details>
-<summary>Complexity Theory</summary>
+<summary><b>Complexity Theory</b></summary>
   
 <b>My view—</b> Given a computable problem P and computational model M (usually a Turing Machine), what class of complexity P belongs to w.r.t M
 <br>
-**Why I like it—** It really defines our boundaries today and the future of computation.
+<b>Why I like it—</b> It really defines our boundaries today and the future of computation.
 <br>
-**What I do not like about it is that—** it does not provide insight into the distribution of hard instances.
+<b>What I do not like about it is that—</b> it does not provide insight into the distribution of hard instances.
 <br>
-**Initial Objective—** Cook–Levin theorem has impacted virtually all aspects of CS over 50 years. If I could do something that remains for five years from now or help others to develop something with such impact, that would be great.
+<b>Initial Objective—</b> Cook–Levin theorem has impacted virtually all aspects of CS over 50 years. If I could do something that remains for five years from now or help others to develop something with such impact, that would be great.
 <br>
-**Initial Plan—** Designing & conducting an empirical study to understand the nature of hard instances + then developing a theory that considers the studies’ observations
+<b>Initial Plan—</b> Designing & conducting an empirical study to understand the nature of hard instances + then developing a theory that considers the studies’ observations
 <br>
-**Second MSc or PhD—** I am open-minded towards both; my preference is a Second MSc.
+<b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
+<br>
+</details>
+<br>
+<details>
+<summary><b>Algorithms Design</b></summary>
+  
+<b>My view—</b> Given a computable problem P, a common computational model M (usually RAM), and the class of complexity of P w.r.t. M, design an efficient algorithm.
+<br>
+<b>Why I like it—</b> it has numerous applications and needs creativity. What I do not like about it is that— it is efficient and suitable for certain problems, not all. For example, for many NP problems where finding an exact solution is required, or many others that guarantee is not required, other alternatives work better.
+<br>
+<b>What I do not like about it is that—</b> it is efficient and suitable for certain problems not all. For example, for many NP-problems that finding exact solution is required or many others that guarantee is not required other alternatives work better.
+<br>
+<b>Initial Objective—</b> I have read big & well-known books, and now I would like to be involved in the community and design my own algorithm because it simply feels very good.
+<br>
+<b>Initial Plan—</b> would be theory, but I have an open mind only after designing and proofing, implementing, and conducting an empirical study. In particular, I think working in one of these areas would be very interesting: Exact or approximation algorithms for computational geometry domain-specific data structures (e.g., data structures for handling large heterogenous datasets).
+<br>
+<b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
+<br>
+</details>
+<br>
+<details>
+<summary><b>SMT Solvers</b></summary>
+  
+<b>My view—</b> Typically, given a computable problem formulated as a formula P that belongs to NPC, find satisfiable assignments for P or otherwise return UNSAT.
+<br>
+<b>Why I like it—</b> they are extremely practical, and many tools (such as KLEE and many others) are developed on top of them + nicely make a link between theory and practice.
+<br>
+<b>What I do not like about it is that—</b> currently, they only provide exact solutions and not approximate solutions.
+<br>
+<b>Initial Objective—</b> I would like to explore SMT4ML, ML4SMT, and ML + Reasoning.
+<br>
+<b>Initial Plan—</b> I am open-minded towards both
+<br>
+<b>Second MSc or PhD—</b> I am open-minded towards both.
+<br>
+</details>
+<br>
+
+<details>
+<summary><b>ML</b></summary>
+  
+<b>My view—</b> Given a computational model M, description or instances of interest D of a computable problem of interest P, design algorithm that works well on instances D w.r.t. a measure of interest
+<br>
+<b>Why I like it—</b> it is practical and empirical and jointly need creativity
+<br>
+<b>What I do not like about it is that—</b> no guarantee, usually is only about representation and does not anything to do w.r.t. reasoning; e.g., it may solve some integrals but cannot discover the concept of integral by itself
+<br>
+<b>Initial Objective—</b> Have read some books, and got some courses, but my major was not AI; now I want to go delve depth and depth into its mathematics, and so design a new algorithm
+<br>
+<b>Initial Plan—</b> Have an open mind, but I would like to design a new algorithm would be among the novelty, not just applying, combing, or comparing existing methods. In particular, I am interested in developing new techniques and algorithms for semi-supervised, supervised, and NLP, all with offline strategies.
+<br>
+<b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
+<br>
+</details>
+<br>
+
+<details>
+<summary><b>Software Engineering</b></summary>
+  
+<b>Initial Objective—</b> I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given software engineering problem. There is no obligation, but as a matter of preference or familiarity, it is easier for me to work on test input generation, test case prioritization, test suite quality assessment, and test case execution. However, I want to emphasize again that there is no obligation, and I would be delighted to explore other problems or other areas, such as verification.
+<br>
+<b>Second MSc or PhD—</b> PhD
+<br>
+</details>
+<br>
+
+<details>
+<summary><b>Others(Sports, Music, etc.)</b></summary> 
+<b>Initial Objective—</b> As should be evident from my websites and the projects I’ve been involved in, I would like to explore and expand my knowledge by applying it to various domains such as Sports, Tourism, Biology, etc. In particular, I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given domain and problem.
+<br>
+<b>Second MSc or PhD—</b> I am open-minded towards both.
 <br>
 </details>
 
-<details>
-<summary>Algorithms Design</summary>
-  
-**My view—** Given a computable problem P, a common computational model M (usually RAM), and the class of complexity of P w.r.t. M, design an efficient algorithm.
-
-**Why I like it—** it has numerous applications and needs creativity. What I do not like about it is that— it is efficient and suitable for certain problems, not all. For example, for many NP problems where finding an exact solution is required, or many others that guarantee is not required, other alternatives work better.
-
-**What I do not like about it is that—** it is efficient and suitable for certain problems not all. For example, for many NP-problems that finding exact solution is required or many others that guarantee is not required other alternatives work better.
-
-**Initial Objective—** I have read big & well-known books, and now I would like to be involved in the community and design my own algorithm because it simply feels very good.
-
-**Initial Plan—** would be theory, but I have an open mind only after designing and proofing, implementing, and conducting an empirical study. In particular, I think working in one of these areas would be very interesting: Exact or approximation algorithms for computational geometry domain-specific data structures (e.g., data structures for handling large heterogenous datasets).
-
-**Second MSc or PhD—** I am open-minded towards both; my preference is a Second MSc.
-
-</details>
-
-<details>
-<summary>SMT Solvers</summary>
-  
-**My view—** Typically, given a computable problem formulated as a formula P that belongs to NPC, find satisfiable assignments for P or otherwise return UNSAT.
-
-**Why I like it—** they are extremely practical, and many tools (such as KLEE and many others) are developed on top of them + nicely make a link between theory and practice.
-
-**What I do not like about it is that—** currently, they only provide exact solutions and not approximate solutions.
-
-**Initial Objective—** I would like to explore SMT4ML, ML4SMT, and ML + Reasoning.
-
-**Initial Plan—** I am open-minded towards both
-
-**Second MSc or PhD—** I am open-minded towards both.
-
-</details>
+<br>
 
 
 <details>
-<summary>ML</summary>
+<summary><b>WHY DO I THINK I AM A COMPETENT CANDIDATE?</b></summary>
   
-**My view—** Given a computational model M, description or instances of interest D of a computable problem of interest P, design algorithm that works well on instances D w.r.t. a measure of interest
-
-**Why I like it—** it is practical and empirical and jointly need creativity
-
-**What I do not like about it is that—** no guarantee, usually is only about representation and does not anything to do w.r.t. reasoning; e.g., it may solve some integrals but cannot discover the concept of integral by itself
-
-**Initial Objective—** Have read some books, and got some courses, but my major was not AI; now I want to go delve depth and depth into its mathematics, and so design a new algorithm
-
-**Initial Plan—** Have an open mind, but I would like to design a new algorithm would be among the novelty, not just applying, combing, or comparing existing methods. In particular, I am interested in developing new techniques and algorithms for semi-supervised, supervised, and NLP, all with offline strategies.
-
-**Second MSc or PhD—** I am open-minded towards both; my preference is a Second MSc.
-
-</details>
-
-
-<details>
-<summary>Software Engineering</summary>
-  
-**Initial Objective—** I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given software engineering problem. There is no obligation, but as a matter of preference or familiarity, it is easier for me to work on test input generation, test case prioritization, test suite quality assessment, and test case execution. However, I want to emphasize again that there is no obligation, and I would be delighted to explore other problems or other areas, such as verification.
-
-**Second MSc or PhD—** PhD
-
-</details>
-
-
-<details>
-<summary>Others(Sports, Music, etc.)</summary>
-  
-**Initial Objective—** As should be evident from my websites and the projects I’ve been involved in, I would like to explore and expand my knowledge by applying it to various domains such as Sports, Tourism, Biology, etc. In particular, I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given domain and problem.
-
-**Second MSc or PhD—** I am open-minded towards both.
-
-</details>
-
-
-
-
-<details>
-<summary>WHY DO I THINK I AM A COMPETENT CANDIDATE?</summary>
-  
-- With my previous research experience, I have gained valuable skills in reading papers, learning about research methodologies, and writing papers and presentations. I believe these skills make me a strong candidate for any position I apply for.
-
-- Looking towards the future, I see myself as a researcher, and I am open to pursuing a second master's or Ph.D. to expand my knowledge and experience. I am flexible when it comes to the type of position, except for software engineering.
-
-- I am fortunate to have a supportive network of diverse and talented individuals who provide me with guidance and collaboration when needed. This is especially crucial as I plan to apply for Fall 2024, which has important implications for my studies and research. With the time leading up to Fall 2024, I can focus on studying literature and potentially required background, allowing us to start research directly in Fall 2024. Additionally, some of these individuals are experts in their respective fields and are always willing to lend a helping hand when I struggle to understand something or when collaboration is needed. My parents provide unwavering support for my continued studies, while my supervisor, Dr. Jalili, PhD from the University of Bradford, is a highly respected expert in software engineering and formal methods. Dr. Ali Gholami Rudi, who won a Gold Medal in National Olympiad in Informatics, is an invaluable guide in algorithms design and analysis, and Javad Kazemi Tabar, PhD from the University of California, Irvine, and Dr. Hesam Omranpour, PhD from Amirkabir University of Technology, are both instrumental in guiding and supporting me in machine learning (+ many others)
-
-- I prefer to let my CV and references speak to my skills and hardworking nature, as I believe actions speak louder than words.
-
+<b>-</b> With my previous research experience, I have gained valuable skills in reading papers, learning about research methodologies, and writing papers and presentations. I believe these skills make me a strong candidate for any position I apply for.
+<br><br>
+<b>-</b> Looking towards the future, I see myself as a researcher, and I am open to pursuing a second master's or Ph.D. to expand my knowledge and experience. I am flexible when it comes to the type of position, except for software engineering.
+<br><br>
+<b>-</b> I am fortunate to have a supportive network of diverse and talented individuals who provide me with guidance and collaboration when needed. This is especially crucial as I plan to apply for Fall 2024, which has important implications for my studies and research. With the time leading up to Fall 2024, I can focus on studying literature and potentially required background, allowing us to start research directly in Fall 2024. Additionally, some of these individuals are experts in their respective fields and are always willing to lend a helping hand when I struggle to understand something or when collaboration is needed. My parents provide unwavering support for my continued studies, while my supervisor, Dr. Jalili, PhD from the University of Bradford, is a highly respected expert in software engineering and formal methods. Dr. Ali Gholami Rudi, who won a Gold Medal in National Olympiad in Informatics, is an invaluable guide in algorithms design and analysis, and Javad Kazemi Tabar, PhD from the University of California, Irvine, and Dr. Hesam Omranpour, PhD from Amirkabir University of Technology, are both instrumental in guiding and supporting me in machine learning (+ many others)
+<br><br>
+<b>-</b> I prefer to let my CV and references speak to my skills and hardworking nature, as I believe actions speak louder than words.
+<br><br>
 </details>
