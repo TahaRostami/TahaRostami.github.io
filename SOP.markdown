@@ -31,18 +31,18 @@ In the following, my current areas of interest for research are described **(wit
 <details>
 <summary>Complexity Theory</summary>
   
-**My view—** Given a computable problem P and computational model M (usually a Turing Machine), what class of complexity P belongs to w.r.t M
-
+<b>My view—</b> Given a computable problem P and computational model M (usually a Turing Machine), what class of complexity P belongs to w.r.t M
+<br>
 **Why I like it—** It really defines our boundaries today and the future of computation.
-
+<br>
 **What I do not like about it is that—** it does not provide insight into the distribution of hard instances.
-
+<br>
 **Initial Objective—** Cook–Levin theorem has impacted virtually all aspects of CS over 50 years. If I could do something that remains for five years from now or help others to develop something with such impact, that would be great.
-
+<br>
 **Initial Plan—** Designing & conducting an empirical study to understand the nature of hard instances + then developing a theory that considers the studies’ observations
-
+<br>
 **Second MSc or PhD—** I am open-minded towards both; my preference is a Second MSc.
-
+<br>
 </details>
 
 <details>
