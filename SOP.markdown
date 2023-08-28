@@ -44,7 +44,7 @@ In the following, my current areas of interest for research are described **(wit
 <b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
 <br>
 </details>
-<br>
+
 <details>
 <summary><b>Algorithms Design</b></summary>
   
@@ -61,7 +61,7 @@ In the following, my current areas of interest for research are described **(wit
 <b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
 <br>
 </details>
-<br>
+
 <details>
 <summary><b>SMT Solvers</b></summary>
   
@@ -78,7 +78,7 @@ In the following, my current areas of interest for research are described **(wit
 <b>Second MSc or PhD—</b> I am open-minded towards both.
 <br>
 </details>
-<br>
+
 
 <details>
 <summary><b>ML</b></summary>
@@ -96,7 +96,7 @@ In the following, my current areas of interest for research are described **(wit
 <b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
 <br>
 </details>
-<br>
+
 
 <details>
 <summary><b>Software Engineering</b></summary>
@@ -106,7 +106,7 @@ In the following, my current areas of interest for research are described **(wit
 <b>Second MSc or PhD—</b> PhD
 <br>
 </details>
-<br>
+
 
 <details>
 <summary><b>Others(Sports, Music, etc.)</b></summary> 
@@ -116,7 +116,6 @@ In the following, my current areas of interest for research are described **(wit
 <br>
 </details>
 
-<br>
 
 
 <details>
