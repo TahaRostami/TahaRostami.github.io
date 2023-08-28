@@ -12,9 +12,14 @@ txtAlign: justify
 
 # Biography
 
+<!-- 
 
 I used to be a chess player years ago, but since then, I've been working in the field of computer science. These days, I'm mainly focused on SMTSolvers4ML, ML4SMTSolvers, and ML + Reasoning, but I also enjoy studying the history of computation for fun. Sometimes, I like to think and write about personalized teaching and helping people through reaching something they are interested in, although it's really just based on my own experiences and thoughts and not something I'm a professional in.
 
+-->
+
+
+I used to be a chess player years ago, but since then, I’ve been working in the field of computer science. Beyond that, sometimes, I like to think and write about personalized teaching and helping people through reaching something they are interested in, although it’s really just based on my own experiences and thoughts and not something I’m a professional in.
 
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a> <!--<a href="#" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My Resume</a>-->
 
