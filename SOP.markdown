@@ -126,17 +126,18 @@ In the following, my current areas of interest for research are described **(wit
 
 ---
 
-<!-- 
+
 <details>
 <summary><b>WHY DO I THINK I AM A COMPETENT CANDIDATE?</b></summary>
   
 <b>-</b> With my previous research experience, I have gained valuable skills in reading papers, learning about research methodologies, and writing papers and presentations. I believe these skills make me a strong candidate for any position I apply for.
 <br><br>
-<b>-</b> Looking towards the future, I see myself as a researcher, and I am open to pursuing a second master's or Ph.D. to expand my knowledge and experience. I am flexible when it comes to the type of position, except for software engineering.
+<b>-</b> Looking towards the future, I see myself as a researcher (not necessarily in universities), and I am open to pursuing a second master's or Ph.D. to expand my knowledge and experience. I am flexible when it comes to the type of position, except for software engineering.
 <br><br>
 <b>-</b> I have a strong network of supportive and talented people who are always there for me. This is especially important as I plan to apply for Fall 2024. I can focus on studying literature and potentially the required background to start research directly in the Fall of 2024. Some of these individuals are experts in their respective fields and are always willing to lend a hand when I struggle to understand something or when collaboration is needed.
 <br><br>
 <b>-</b> I prefer to let my CV and references speak to my skills and hardworking nature, as I believe actions speak louder than words.
 <br><br>
 </details>
---> 
+
+---
