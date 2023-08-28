@@ -62,7 +62,7 @@ In the following sections, I will describe my current areas of research interest
 <br>
 <b>Initial Objective—</b> I have read big & well-known books, and now I would like to be involved in the community and design my own algorithm because it simply feels very good.
 <br>
-<b>Initial Plan—</b> would be theory, but I have an open mind only after designing and proofing, implementing, and conducting an empirical study. In particular, I think working in one of these areas would be very interesting: Exact or approximation algorithms for computational geometry domain-specific data structures (e.g., data structures for handling large heterogenous datasets).
+<b>Initial Plan—</b> would be theory, but I have an open mind only after designing and proofing, implementing, and conducting an empirical study. In particular, I think working in one of these areas would be very interesting: Exact or approximation algorithms for computational geometry or domain-specific data structures (e.g., data structures for handling large heterogenous datasets).
 <br>
 <b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
 <br>
