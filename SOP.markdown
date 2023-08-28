@@ -126,6 +126,7 @@ In the following, my current areas of interest for research are described **(wit
 
 ---
 
+<!-- 
 <details>
 <summary><b>WHY DO I THINK I AM A COMPETENT CANDIDATE?</b></summary>
   
@@ -138,3 +139,4 @@ In the following, my current areas of interest for research are described **(wit
 <b>-</b> I prefer to let my CV and references speak to my skills and hardworking nature, as I believe actions speak louder than words.
 <br><br>
 </details>
+--> 
