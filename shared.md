@@ -12,7 +12,7 @@ txtAlign: justify
 
   <blockquote class="w3-panel w3-leftbar w3-light-grey">
     <p class="w3-large"><i>"Tell me and I'll forget; show me and I may remember; involve me and I'll understand."</i></p>
-    <p>Chinese proverb.</p>
+    <p>Chinese proverb</p>
   </blockquote> 
 
 
