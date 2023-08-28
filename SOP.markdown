@@ -8,6 +8,11 @@ txtAlign: justify
 
 # Statement of Purpose
 
+  <blockquote class="w3-panel w3-leftbar w3-light-grey">
+    <p class="w3-large"><i>"We learned to be happy / We danced 'round the hall / And learning to count was the key to it all."</i></p>
+    <p>The Count, Sesame Street</p>
+  </blockquote> 
+
 A few moons have passed since I defended my MSc thesis with great success. After much introspection, I have resolved to pursue further studies abroad. As someone who cherishes lucidity and meticulousness, I have crafted this temporary page to share my statement of purpose for research in the coming years. It is my fervent hope that this statement will serve not only as a guide for myself, but also for prospective supervisors, co-supervisors, and anyone interested in my academic aspirations.
 
 ---
