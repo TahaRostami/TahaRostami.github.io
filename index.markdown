@@ -12,6 +12,11 @@ txtAlign: justify
 
 # Biography
 
+
+  <blockquote class="w3-panel w3-leftbar w3-light-grey">
+    <p class="w3-large"><i>"To learn and never be filled is wisdom; to teach and never be weary is love."</i></p>
+  </blockquote> 
+
 <!-- 
 
 I used to be a chess player years ago, but since then, I've been working in the field of computer science. These days, I'm mainly focused on SMTSolvers4ML, ML4SMTSolvers, and ML + Reasoning, but I also enjoy studying the history of computation for fun. Sometimes, I like to think and write about personalized teaching and helping people through reaching something they are interested in, although it's really just based on my own experiences and thoughts and not something I'm a professional in.
