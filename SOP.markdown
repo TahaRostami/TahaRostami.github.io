@@ -52,7 +52,7 @@ In the following, my current areas of interest for research are described **(wit
   
 <b>My view—</b> Given a computable problem P, a common computational model M (usually RAM), and the class of complexity of P w.r.t. M, design an efficient algorithm.
 <br>
-<b>Why I like it—</b> it has numerous applications and needs creativity. What I do not like about it is that— it is efficient and suitable for certain problems, not all. For example, for many NP problems where finding an exact solution is required, or many others that guarantee is not required, other alternatives work better.
+<b>Why I like it—</b> it has numerous applications and needs creativity.
 <br>
 <b>What I do not like about it is that—</b> it is efficient and suitable for certain problems not all. For example, for many NP-problems that finding exact solution is required or many others that guarantee is not required other alternatives work better.
 <br>
