@@ -31,99 +31,99 @@ In the following, my current areas of interest for research are described **(wit
 <details>
 <summary><b>Complexity Theory</b></summary>
   
-<em>My view—</em> Given a computable problem P and computational model M (usually a Turing Machine), what class of complexity P belongs to w.r.t M
+<b>My view—</b> Given a computable problem P and computational model M (usually a Turing Machine), what class of complexity P belongs to w.r.t M
 <br>
-<em>Why I like it—</em> It really defines our boundaries today and the future of computation.
+<b>Why I like it—</b> It really defines our boundaries today and the future of computation.
 <br>
-<em>What I do not like about it is that—</em> it does not provide insight into the distribution of hard instances.
+<b>What I do not like about it is that—</b> it does not provide insight into the distribution of hard instances.
 <br>
-<em>Initial Objective—</em> Cook–Levin theorem has impacted virtually all aspects of CS over 50 years. If I could do something that remains for five years from now or help others to develop something with such impact, that would be great.
+<b>Initial Objective—</b> Cook–Levin theorem has impacted virtually all aspects of CS over 50 years. If I could do something that remains for five years from now or help others to develop something with such impact, that would be great.
 <br>
-<em>Initial Plan—</em> Designing & conducting an empirical study to understand the nature of hard instances + then developing a theory that considers the studies’ observations
-<br>
-<em>Second MSc or PhD—</em> I am open-minded towards both; my preference is a Second MSc.
-<br>
-</details>
-
-
-
-<details>
-<summary><b>Algorithms Design</b></summary>
-  
-<em>My view—</em> Given a computable problem P, a common computational model M (usually RAM), and the class of complexity of P w.r.t. M, design an efficient algorithm.
-<br>
-<em>Why I like it—</em> it has numerous applications and needs creativity. What I do not like about it is that— it is efficient and suitable for certain problems, not all. For example, for many NP problems where finding an exact solution is required, or many others that guarantee is not required, other alternatives work better.
-<br>
-<em>What I do not like about it is that—</em> it is efficient and suitable for certain problems not all. For example, for many NP-problems that finding exact solution is required or many others that guarantee is not required other alternatives work better.
-<br>
-<em>Initial Objective—</em> I have read big & well-known books, and now I would like to be involved in the community and design my own algorithm because it simply feels very good.
-<br>
-<em>Initial Plan—</em> would be theory, but I have an open mind only after designing and proofing, implementing, and conducting an empirical study. In particular, I think working in one of these areas would be very interesting: Exact or approximation algorithms for computational geometry domain-specific data structures (e.g., data structures for handling large heterogenous datasets).
+<b>Initial Plan—</b> Designing & conducting an empirical study to understand the nature of hard instances + then developing a theory that considers the studies’ observations
 <br>
 <b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
 <br>
 </details>
 
+---
 
+<details>
+<summary><b>Algorithms Design</b></summary>
+  
+<b>My view—</b> Given a computable problem P, a common computational model M (usually RAM), and the class of complexity of P w.r.t. M, design an efficient algorithm.
+<br>
+<b>Why I like it—</b> it has numerous applications and needs creativity. What I do not like about it is that— it is efficient and suitable for certain problems, not all. For example, for many NP problems where finding an exact solution is required, or many others that guarantee is not required, other alternatives work better.
+<br>
+<b>What I do not like about it is that—</b> it is efficient and suitable for certain problems not all. For example, for many NP-problems that finding exact solution is required or many others that guarantee is not required other alternatives work better.
+<br>
+<b>Initial Objective—</b> I have read big & well-known books, and now I would like to be involved in the community and design my own algorithm because it simply feels very good.
+<br>
+<b>Initial Plan—</b> would be theory, but I have an open mind only after designing and proofing, implementing, and conducting an empirical study. In particular, I think working in one of these areas would be very interesting: Exact or approximation algorithms for computational geometry domain-specific data structures (e.g., data structures for handling large heterogenous datasets).
+<br>
+<b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
+<br>
+</details>
+
+---
 
 <details>
 <summary><b>SMT Solvers</b></summary>
   
-<em>My view—</em> Typically, given a computable problem formulated as a formula P that belongs to NPC, find satisfiable assignments for P or otherwise return UNSAT.
+<b>My view—</b> Typically, given a computable problem formulated as a formula P that belongs to NPC, find satisfiable assignments for P or otherwise return UNSAT.
 <br>
-<em>Why I like it—</em> they are extremely practical, and many tools (such as KLEE and many others) are developed on top of them + nicely make a link between theory and practice.
+<b>Why I like it—</b> they are extremely practical, and many tools (such as KLEE and many others) are developed on top of them + nicely make a link between theory and practice.
 <br>
-<em>What I do not like about it is that—</em> currently, they only provide exact solutions and not approximate solutions.
+<b>What I do not like about it is that—</b> currently, they only provide exact solutions and not approximate solutions.
 <br>
-<em>Initial Objective—</em> I would like to explore SMT4ML, ML4SMT, and ML + Reasoning.
+<b>Initial Objective—</b> I would like to explore SMT4ML, ML4SMT, and ML + Reasoning.
 <br>
-<em>Initial Plan—</em> I am open-minded towards both
+<b>Initial Plan—</b> I am open-minded towards both
 <br>
-<em>Second MSc or PhD—</em> I am open-minded towards both.
+<b>Second MSc or PhD—</b> I am open-minded towards both.
 <br>
 </details>
 
-
+---
 
 <details>
 <summary><b>ML</b></summary>
   
-<em>My view—</em> Given a computational model M, description or instances of interest D of a computable problem of interest P, design algorithm that works well on instances D w.r.t. a measure of interest
+<b>My view—</b> Given a computational model M, description or instances of interest D of a computable problem of interest P, design algorithm that works well on instances D w.r.t. a measure of interest
 <br>
-<em>Why I like it—</em> it is practical and empirical and jointly need creativity
+<b>Why I like it—</b> it is practical and empirical and jointly need creativity
 <br>
-<em>What I do not like about it is that—</em> no guarantee, usually is only about representation and does not anything to do w.r.t. reasoning; e.g., it may solve some integrals but cannot discover the concept of integral by itself
+<b>What I do not like about it is that—</b> no guarantee, usually is only about representation and does not anything to do w.r.t. reasoning; e.g., it may solve some integrals but cannot discover the concept of integral by itself
 <br>
-<em>Initial Objective—</em> Have read some books, and got some courses, but my major was not AI; now I want to go delve depth and depth into its mathematics, and so design a new algorithm
+<b>Initial Objective—</b> Have read some books, and got some courses, but my major was not AI; now I want to go delve depth and depth into its mathematics, and so design a new algorithm
 <br>
-<em>Initial Plan—</em> Have an open mind, but I would like to design a new algorithm would be among the novelty, not just applying, combing, or comparing existing methods. In particular, I am interested in developing new techniques and algorithms for semi-supervised, supervised, and NLP, all with offline strategies.
+<b>Initial Plan—</b> Have an open mind, but I would like to design a new algorithm would be among the novelty, not just applying, combing, or comparing existing methods. In particular, I am interested in developing new techniques and algorithms for semi-supervised, supervised, and NLP, all with offline strategies.
 <br>
-<em>Second MSc or PhD—</em> I am open-minded towards both; my preference is a Second MSc.
+<b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
 <br>
 </details>
 
-
+---
 
 <details>
 <summary><b>Software Engineering</b></summary>
   
-<em>Initial Objective—</em> I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given software engineering problem. There is no obligation, but as a matter of preference or familiarity, it is easier for me to work on test input generation, test case prioritization, test suite quality assessment, and test case execution. However, I want to emphasize again that there is no obligation, and I would be delighted to explore other problems or other areas, such as verification.
+<b>Initial Objective—</b> I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given software engineering problem. There is no obligation, but as a matter of preference or familiarity, it is easier for me to work on test input generation, test case prioritization, test suite quality assessment, and test case execution. However, I want to emphasize again that there is no obligation, and I would be delighted to explore other problems or other areas, such as verification.
 <br>
-<em>Second MSc or PhD—</em> PhD
+<b>Second MSc or PhD—</b> PhD
 <br>
 </details>
 
-
+---
 
 <details>
 <summary><b>Others(Sports, Music, etc.)</b></summary> 
-<em>Initial Objective—</em> As should be evident from my websites and the projects I’ve been involved in, I would like to explore and expand my knowledge by applying it to various domains such as Sports, Tourism, Biology, etc. In particular, I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given domain and problem.
+<b>Initial Objective—</b> As should be evident from my websites and the projects I’ve been involved in, I would like to explore and expand my knowledge by applying it to various domains such as Sports, Tourism, Biology, etc. In particular, I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given domain and problem.
 <br>
-<em>Second MSc or PhD—</em> I am open-minded towards both.
+<b>Second MSc or PhD—</b> I am open-minded towards both.
 <br>
 </details>
 
-
+---
 
 <details>
 <summary><b>WHY DO I THINK I AM A COMPETENT CANDIDATE?</b></summary>
