@@ -25,4 +25,4 @@ For now, you can check out my posts in the following link, though someday, I may
 
 [DearProfessorHunter's website](https://dearprofessorhunter.notion.site/dearprofessorhunter/Home-cd5bc9dd95bb4eebb0466452e17658f1)
 
-I hope you find my writings useful in some way, and I look forward to sharing more in the future.
+I hope you find my writings useful in some way, even if I'm not sure how yet.
