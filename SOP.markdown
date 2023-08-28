@@ -45,6 +45,8 @@ In the following, my current areas of interest for research are described **(wit
 <br>
 </details>
 
+---
+
 <details>
 <summary><b>Algorithms Design</b></summary>
   
@@ -61,6 +63,8 @@ In the following, my current areas of interest for research are described **(wit
 <b>Second MSc or PhD—</b> I am open-minded towards both; my preference is a Second MSc.
 <br>
 </details>
+
+---
 
 <details>
 <summary><b>SMT Solvers</b></summary>
@@ -79,6 +83,7 @@ In the following, my current areas of interest for research are described **(wit
 <br>
 </details>
 
+---
 
 <details>
 <summary><b>ML</b></summary>
@@ -97,6 +102,7 @@ In the following, my current areas of interest for research are described **(wit
 <br>
 </details>
 
+---
 
 <details>
 <summary><b>Software Engineering</b></summary>
@@ -107,6 +113,7 @@ In the following, my current areas of interest for research are described **(wit
 <br>
 </details>
 
+---
 
 <details>
 <summary><b>Others(Sports, Music, etc.)</b></summary> 
@@ -116,7 +123,7 @@ In the following, my current areas of interest for research are described **(wit
 <br>
 </details>
 
-
+---
 
 <details>
 <summary><b>WHY DO I THINK I AM A COMPETENT CANDIDATE?</b></summary>
