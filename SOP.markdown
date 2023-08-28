@@ -10,6 +10,9 @@ txtAlign: justify
 
 A few months ago, I successfully defended my MSc thesis. After careful consideration, I have decided to pursue further studies abroad. As someone who values clarity and thoroughness, I have created this temporary page in order to share my statement of purpose for conducting research in the coming years. My hope is that this statement will be helpful not only to myself, but also to potential supervisors, co-supervisors, and anyone else who may be interested in my academic pursuits.
 
+---
+
+
 I have two years of experience researching applied machine learning for software testing. My supervisor, Dr. Jalili [[website](https://www.modares.ac.ir/~sjalili), [google scholar](https://scholar.google.com/citations?user=j6gUwMkAAAAJ&hl=en)], dedicates much time to his research and students. As a result, I have had the opportunity to learn about the research up and down. At the same time, I realized with my soul how challenging it can be to bring something new into this world regarding knowledge.
 
 So, after defending my thesis, it was a big dilemma to choose between continuing to do research or going to work. It turns out that though it is hard, solving an unsolved problem or solving a problem different than what used to be solved before is really passionate me. So, I decided to continue the research.
