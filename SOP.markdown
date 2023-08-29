@@ -123,7 +123,7 @@ In the following sections, I will describe my current areas of research interest
 <summary><b>Others(Sports, Music, etc.)</b></summary> 
 <b>Initial Objective—</b> As should be evident from my websites and the projects I’ve been involved in, I would like to explore and expand my knowledge by applying it to various domains such as Sports, Tourism, Biology, etc. In particular, I want to explore applications of SMT solvers, ML, and Approximate counting/sampling in a given domain and problem.
 <br>
-<b>Second MSc or PhD—</b> I am open-minded towards both.
+<b>Second MSc or PhD—</b> MSc
 <br>
 </details>
 
