@@ -8,5 +8,8 @@ permalink: /projects/
 
 # Projects
 
-Throughout these years, I wrote some programs and participated in some projects. Here, I selected some of them.
+  <blockquote class="w3-panel w3-leftbar w3-light-grey">
+    <p class="w3-large"><i>"We learned to be happy / We danced 'round the hall / And learning to count was the key to it all."</i></p>
+    <p>The Count, Sesame Street</p>
+  </blockquote> 
 
