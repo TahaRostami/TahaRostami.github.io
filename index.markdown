@@ -26,9 +26,9 @@ I used to be a chess player years ago, but since then, I've been working in the 
 
 I used to be a chess player years ago, but since then, I’ve been working in the field of computer science. Beyond that, sometimes, I like to think and write about personalized teaching and helping people through reaching something they are interested in, although it’s really just based on my own experiences and thoughts and not something I’m a professional in.
 
-<!-- 
+
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>
--->
+
 
 <div class="w3-row">
   <div class="w3-col l6 m6 s12 w3">
