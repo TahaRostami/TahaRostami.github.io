@@ -37,13 +37,14 @@ I used to be a chess player years ago, but since then, I’ve been working in th
       <li><p><a href="https://scholar.google.com/citations?user=Uy6gXbIAAAAJ&hl=en&oi=ao">GoogleScholar</a></p></li>
       <li><p><a href="https://github.com/TahaRostami">Github</a></p></li>
       <li><p><a href="https://www.linkedin.com/in/taha-rostami-3079881a9/">Linkedin</a></p></li>
+      <li><p><a href="https://hinative.com/profiles/7532306">HiNative</a></p></li>
     </ul>
   </div>
   <div class="w3-col l6 m6 s12 w3">
     <h2 id="Contact Me">Contact Me</h2>
       <ul>
         <li><p>Email: taha.rostami.darunkola@gmail.com</p></li>
-        <li><p>Email: taha.rostami@modares.ac.ir</p></li>
+<!--         <li><p>Email: taha.rostami@modares.ac.ir</p></li> -->
       </ul>
   </div>
 </div>
