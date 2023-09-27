@@ -2,7 +2,7 @@
 
 A Jekyll theme I designed and implemented for my website using W3.CSS and inspired by a template from W3schools
 
-## A Comment For MySelf:
+## A Comment For Myself:
 
 bundle exec jekyll serve --livereload
 
