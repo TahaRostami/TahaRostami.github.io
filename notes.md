@@ -3,7 +3,7 @@
 layout: page
 title: NOTES
 icon: fa fa-user fa-fw w3-margin-right
-permalink: /
+permalink: /notes/
 txtAlign: justify
 ---
 
