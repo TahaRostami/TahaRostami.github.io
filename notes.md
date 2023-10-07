@@ -11,7 +11,7 @@ txtAlign: justify
 # Notes
 
 
-I've come to realize that Iran's academic landscape differs significantly from the global norm. As I embarked on my journey to study abroad, I had an eye-opening moment. I understood that my academic background might be perceived quite differently by those unfamiliar with Iran's unique circumstances. In response, I revised my Statement of Purpose (SOP) to provide additional context for those who may find it relevant. This temporary page serves as a platform to offer the necessary background information and adjustments to better understand my academic profile.
+I recently had an eye-opening moment. I understood that my academic background might be perceived quite differently by those unfamiliar with Iran's unique circumstances + those unfamiliar with my philosophy. In response, I revised my Statement of Purpose (SOP) to provide additional context for those who may find it relevant. This temporary page serves as a platform to offer the necessary background information and adjustments to better understand my academic profile.
 
 
 
