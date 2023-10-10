@@ -26,6 +26,9 @@ This temporary page is designed to provide essential background information and 
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/Challenges.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download Challenges (pdf file)</a>
 
 
+**Have more questions?** Don't hesitate to reach out via email. You can find my email address on my homepage.
+
+
 
 
 
