@@ -13,9 +13,11 @@ txtAlign: justify
 # Biography
 
 
+<!--
   <blockquote class="w3-panel w3-leftbar w3-light-grey">
     <p class="w3-large"><i>"To learn and never be filled is wisdom; to teach and never be weary is love."</i></p>
   </blockquote> 
+-->
 
 <!-- 
 
