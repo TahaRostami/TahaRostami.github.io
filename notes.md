@@ -13,9 +13,11 @@ txtAlign: justify
 
 This temporary page is designed to provide essential background information and facilitate a better understanding of my academic profile. There is no obligation to read any specific files; your level of interest may vary. If you choose to explore any of the files, you can focus on the sections that are most relevant to your concerns. 
 
+<!--
 **My General Statement of Purpose:** This is my general Statement of Purpose (SOP), providing an overview of my background and research experience. Please note that while it covers the Introduction, Main Research Experience, Additional Research Experience, and Conclusion, it does not include detailed information about my Research Statement or the selection of the institution, program, and supervisor. However, these details are available upon request.
 
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/blob/main/files/General_SOP_TahaRostami.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download General Statement of Purpose (pdf file)</a>
+-->
 
 **Potential Questions:** The goal here is to provide context and clarity regarding my CV, GitHub, language proficiency, etc. This is achieved by addressing potential questions, such as why I chose journals for my English publications instead of top conferences, which is more common in the CS community. You may find it beneficial to explore a specific section of this manuscript for more detailed information.
 
