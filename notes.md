@@ -2,7 +2,7 @@
 
 layout: page
 title: NOTES
-icon: fa fa-user fa-fw w3-margin-right
+icon: fa fa-exclamation fa-fw w3-margin-right
 permalink: /notes/
 txtAlign: justify
 ---
