@@ -6,4 +6,4 @@ icon: fa fas fa-book fa-fw w3-margin-right
 permalink: /publications/
 ---
 
-# Publications
+# English Publications
