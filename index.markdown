@@ -27,7 +27,9 @@ txtAlign: justify
   </div>
 </div>
 
-<a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Academic CV</a>
+<a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">CV</a>
+
+<a href="https://raw.githubusercontent.com/TahaRostami/TahaRostami.github.io/main/files/VizCV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Visual CV</a>
 
 
 
