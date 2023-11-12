@@ -10,13 +10,6 @@ txtAlign: justify
 ---
 
 
-# Biography
-
-A Computer Science Enthusiast.
-
-<a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>
-
-
 <div class="w3-row">
   <div class="w3-col l6 m6 s12 w3">
     <h2 id="Find Me!">Find Me!</h2>
@@ -30,10 +23,11 @@ A Computer Science Enthusiast.
     <h2 id="Contact Me">Contact Me</h2>
       <ul>
         <li><p>Email: taha.rostami.darunkola@gmail.com</p></li>
-<!--         <li><p>Email: taha.rostami@modares.ac.ir</p></li> -->
       </ul>
   </div>
 </div>
+
+<a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Academic CV</a>
 
 
 
