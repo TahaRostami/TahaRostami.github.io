@@ -14,8 +14,6 @@ txtAlign: justify
 
 A Computer Science Enthusiast.
 
-![New Microsoft Visio Drawing](https://github.com/TahaRostami/TahaRostami.github.io/assets/30346122/ef52c684-d9fa-4237-b992-9c5e77f957bf)
-
 <a href="https://github.com/TahaRostami/TahaRostami.github.io/raw/main/files/CV.pdf" class="w3-button w3-white w3-border w3-border-indigo w3-round-large w3-text-blue">Download My CV</a>
 
 
