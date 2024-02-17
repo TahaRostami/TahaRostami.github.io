@@ -17,6 +17,7 @@ txtAlign: justify
       <li><p><a href="https://scholar.google.com/citations?user=Uy6gXbIAAAAJ&hl=en&oi=ao">GoogleScholar</a></p></li>
       <li><p><a href="https://github.com/TahaRostami">Github</a></p></li>
       <li><p><a href="https://www.linkedin.com/in/taha-rostami-3079881a9/">Linkedin</a></p></li>
+      <li><p><a href="https://www.youtube.com/channel/UCGwibcvlE-9tpzvIZMdfiZg">YouTube</a></p></li>
     </ul>
   </div>
   <div class="w3-col l6 m6 s12 w3">
