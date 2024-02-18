@@ -9,6 +9,6 @@ My friend and I designed and implemented an intelligent poker squares player usi
 
 **Programming Languages and Technologies:** Python
 
-**Member(s):** Parinaz Tabari, Taha Rostami
+**Member(s):** Pari Naz Tabari, Taha Rostami
 
 **[codes and more information ( Available)](https://github.com/parinaztabari/PokerSquare)**
