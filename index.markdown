@@ -9,6 +9,11 @@ permalink: /
 txtAlign: justify
 ---
 
+# About Me
+
+Welcome to my homepage! I'm Taha Rostami, a computer engineer and researcher specializing in the application and development of machine learning and automated reasoning across various domains, including software engineering, mathematical logic, and gaming.
+
+Outside of my professional pursuits, I enjoy teaching, playing board games, and delving into Persian literature, history, and philosophy. Additionally, I have a passion for painting and calligraphy.
 
 <div class="w3-row">
   <div class="w3-col l6 m6 s12 w3">
