@@ -5,7 +5,7 @@
 layout: page
 title: SERVICES
 icon: fa fa-cogs fa-fw w3-margin-right
-permalink: /
+permalink: /services/
 txtAlign: justify
 ---
 
