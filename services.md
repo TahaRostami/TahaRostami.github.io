@@ -9,6 +9,8 @@ permalink: /services/
 txtAlign: justify
 ---
 
+# Services
+
 <div class="w3-bar">
     <button class="w3-bar-item w3-button tablink w3-blue" onclick="openService(event,'ComputerScience')">Computer Science</button>
     <button class="w3-bar-item w3-button tablink" onclick="openService(event,'Chess')">Chess</button>
