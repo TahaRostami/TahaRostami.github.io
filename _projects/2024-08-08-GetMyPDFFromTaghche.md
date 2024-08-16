@@ -12,4 +12,4 @@ This is a simple program designed to extract a PDF from the Taghche application.
 
 **Member(s):** Taha Rostami
 
-**[codes and more information (Available)](https://github.com/TahaRostami/get_my_pdf_from_taghche/tree/main)**
+**[codes and more information (Available)](https://gist.github.com/TahaRostami/d25685497d1e8c7e1ef066235c59af3c)**
