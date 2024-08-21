@@ -14,3 +14,5 @@ permalink: /projects/
     <p>The Count, Sesame Street</p>
   </blockquote> 
 -->
+
+Some of the projects, mini-projects, research work, and code samples that I have developed or contributed to.
