@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optimizing Vocabulary Learning: Evaluating and Enhancing Coverage Metrics for Effective English Learner Resources"
+title: "Optimizing Vocabulary Learning"
 ---
 
 A quantitative analysis of some well-known vocabulary books, along with proposed metrics and methods to enhance the vocabulary learning experience.
