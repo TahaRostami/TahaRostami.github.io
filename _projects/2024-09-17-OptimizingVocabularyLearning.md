@@ -11,9 +11,9 @@ Afterward, an approach is proposed that aims to optimize this metric. The approa
 
 Finally, a quantitative analysis and comparison of some well-known vocabulary books—such as 504 Absolutely Essential Words, 4000 Essential English Words, Barron’s 1100 Words You Need to Know, Merriam-Webster Vocabulary Builder, and Oxford Word Skills Basic Book—is provided. This analysis concludes with adjustments highlighting what makes a vocabulary book effective.
 
-**Application Language(s):** English
+**Application Language(s):** Persian
 
-**Programming Languages and Technologies:** Python, PyTorch
+**Programming Languages and Technologies:** Python, nltk
 
 **Member(s):** Taha Rostami
 
