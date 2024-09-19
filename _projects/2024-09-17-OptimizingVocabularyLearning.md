@@ -17,4 +17,4 @@ Finally, a quantitative analysis and comparison of some well-known vocabulary bo
 
 **Member(s):** Taha Rostami
 
-**[codes and more information (Available)](https://gist.github.com/TahaRostami/7bc320a171f20398066312b675bf85f9)**
+**[codes and more information (Available)](https://gist.github.com/TahaRostami/d1067af6ac9864e752eefa5bff52cb4a)**
