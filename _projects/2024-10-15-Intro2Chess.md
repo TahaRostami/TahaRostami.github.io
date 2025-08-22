@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Chess"
 ---
 
-Free online chess course!
+Online Chess Course!
 
 **Language(s):** English
 
